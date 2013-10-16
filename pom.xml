@@ -11,7 +11,7 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <httpclient-version>4.2.5</httpclient-version>
+    <httpclient-version>4.3</httpclient-version>
   </properties>
 
   <dependencies>
